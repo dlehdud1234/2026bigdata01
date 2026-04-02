@@ -1,4 +1,4 @@
-def Entrance_Fee(ages):
+def Entrance_Fee(ages: list) -> int:
     """
     total fee calculation
     :parameter: ages : list of ages
