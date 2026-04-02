@@ -9,4 +9,5 @@ for i in range(humans):
     ages.append(age)
 
 print(f"총 요금 {ticket.Entrance_Fee(ages)}원 입니다")
+#합치기
 #print(ages)
