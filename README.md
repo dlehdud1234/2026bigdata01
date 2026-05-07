@@ -10,3 +10,8 @@ git log online / graph 삭제 옵션 -d
 array.t
 arr.dtype
 numpy 배열, 속성, 연산, 제공 통계 함수(git참고)
+
+df.dropna
+.info
+mpg.describe
+fillna
